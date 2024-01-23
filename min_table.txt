@@ -5,11 +5,11 @@
 \hline
 \textbf{Models} & $\min_{i} (|x_{i} - v_{i})| > 0.1$ & $\min_{i} (|x_{i} - v_{i})| > 0.05$ & $\min_{i} (|x_{i} - v_{i})| > 0.01$\\
 \hline
-Wide ReLU ANN & 1.66e-2 ($\pm$ 2.19e-3) & 1.91e-2 ($\pm$ 1.12e-3) & 2.11e-2 ($\pm$ 7.13e-4) \\
-Deep ReLU ANN & 3.08e-3 ($\pm$ 4.74e-4) & 3.21e-3 ($\pm$ 4.80e-4) & 3.31e-3 ($\pm$ 5.03e-4) \\
-Spline ANN (z=20) & \textbf{0.0} ($\pm$ \textbf{0.0}) & \textbf{0.0} ($\pm$ \textbf{0.0}) & 5.93e-5 ($\pm$ 3.79e-6) \\
-ABEL-Spline (z=20) & \textbf{0.0} ($\pm$ \textbf{0.0}) & \textbf{0.0} ($\pm$ \textbf{0.0}) & 2.35e-4 ($\pm$ 1.54e-5) \\
-Lookup Table (z=20) & \textbf{0.0} ($\pm$ \textbf{0.0}) & \textbf{0.0} ($\pm$ \textbf{0.0}) & 1.05e-6 ($\pm$ 1.63e-7) \\
+Wide ReLU ANN & 1.08e-2 ($\pm$ 1.37e-3) & 1.56e-2 ($\pm$ 8.82e-4) & 2.03e-2 ($\pm$ 6.84e-4) \\
+Deep ReLU ANN & 2.01e-3 ($\pm$ 3.16e-4) & 2.61e-3 ($\pm$ 3.93e-4) & 3.18e-3 ($\pm$ 4.84e-4) \\
+Spline ANN (z=20) & \textbf{0.0} ($\pm$ \textbf{0.0}) & \textbf{0.0} ($\pm$ \textbf{0.0}) & 5.70e-5 ($\pm$ 3.62e-6) \\
+ABEL-Spline (z=20) & \textbf{0.0} ($\pm$ \textbf{0.0}) & \textbf{0.0} ($\pm$ \textbf{0.0}) & 2.26e-4 ($\pm$ 1.47e-5) \\
+Lookup Table (z=20) & \textbf{0.0} ($\pm$ \textbf{0.0}) & \textbf{0.0} ($\pm$ \textbf{0.0}) & 1.00e-6 ($\pm$ 1.56e-7) \\
 \hline
 \end{tabular}
 \caption{Your caption}
