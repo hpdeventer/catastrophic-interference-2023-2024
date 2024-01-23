@@ -1,0 +1,17 @@
+\begin{table}[!htb]
+\centering
+\small
+\begin{tabular}{|l|c|}
+\hline
+\textbf{Models} & Model Perturbation \\
+\hline
+Wide ReLU ANN & 2.16e-2 ($\pm$ 7.78e-4) \\
+Deep ReLU ANN & 3.34e-3 ($\pm$ 5.11e-4) \\
+Spline ANN (z=20) & 9.78e-5 ($\pm$ 4.17e-6) \\
+ABEL-Spline (z=20) & 3.89e-4 ($\pm$ 1.70e-5) \\
+Lookup Table (z=20) & 2.50e-6 ($\pm$ 1.37e-7) \\
+\hline
+\end{tabular}
+\caption{Your caption}
+\label{Your_label}
+\end{table}
